@@ -1,0 +1,1 @@
+v3.7: Landscape split login; optional remembered password; compact fields and home hero; fixed catalogue scroll height in landscape; guarded button actions with log output. Server settings unchanged. Not device-tested.

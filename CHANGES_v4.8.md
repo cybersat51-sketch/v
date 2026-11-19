@@ -1,0 +1,1 @@
+IPTV PRO2 v4.8: single fixed featured movie (no rotation), larger landscape hero, improved shortcut readability, larger channel logos and movie posters. Auto login, player, back navigation, and other functionality retained.

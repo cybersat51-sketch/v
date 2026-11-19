@@ -1,0 +1,1 @@
+IPTV PRO2 v4.7: automatic login after restart when Se souvenir de moi is enabled; validates saved account against existing server; falls back to login on failure; logout clears saved password. Server and other screens unchanged.

@@ -1,0 +1,1 @@
+IPTV PRO2 v4.0: Accueil paysage sans défilement vertical; bandeau 72dp; raccourcis 44dp; trois catalogues côte à côte avec défilement horizontal interne. Paramètres serveur inchangés. Build Android non vérifié.
